@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 
 #define STACK_SIZE 5
 
